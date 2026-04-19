@@ -1,0 +1,17 @@
+.env
+config_local.py
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+data/raw/*.csv
+data/raw/*.zip
+data/processed/
+reports/
+*.ipynb_checkpoints/
